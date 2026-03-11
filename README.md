@@ -37,7 +37,7 @@ A project management and operations tool built for streamlining workflows.
 ---
 
 ### 📘 OpenClaw Setup Guide
-An open-source guide for setting up OpenClaw environments.
+An open-source guide for setting up OpenClaw environments. Currently deployed and managing 12 OpenClaw nodes.
 
 🔗 [View the repo →](https://github.com/sgonz24/openclaw-setup-guide)
 
