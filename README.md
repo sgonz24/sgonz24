@@ -2,16 +2,22 @@
 
 **Director of Marketing | Founder of [AI for ROI](https://aiforroi.co)**
 
-I help businesses unlock growth through applied AI — building systems that increase revenue, simplify operations, and actually get used.
+I help businesses unlock growth through applied AI — building systems that increase revenue, simplify operations, and actually get used. My work spans marketing strategy and hands-on building, with a focus on performance dashboards, SEO, and paid media across Meta Ads and Google Ads.
 
 ---
 
 ## What I'm Building
 
-### 🔥 Ember Meta Dashboard
 A real-time analytics dashboard for managing and optimizing Meta ad campaigns. Built to give marketers faster insights without digging through Ads Manager.
 
 **Stack:** TypeScript, Next.js, Vercel
+
+---
+
+### ⚡ Hermes
+An app I designed and built to streamline workflows and move faster on the things that matter.
+
+**Stack:** TypeScript, Next.js
 
 ---
 
@@ -19,13 +25,6 @@ A real-time analytics dashboard for managing and optimizing Meta ad campaigns. B
 A scheduling and monitoring tool for managing Vercel cron jobs across multiple projects. Makes it easy to see what's running, when, and catch failures fast.
 
 **Stack:** TypeScript, Vercel, Next.js
-
----
-
-### 🏈 Beast App
-An AI-powered flag football app for simulating game-like situations. Helps players and coaches prep with real scenarios.
-
-**Stack:** TypeScript, React Native
 
 ---
 
@@ -43,10 +42,12 @@ An open-source guide for setting up OpenClaw environments. Currently deployed an
 
 ---
 
+## What I Do
+
+Dashboards · SEO · Meta Ads · Google Ads
+
+---
+
 ## Connect
 
-🌐 [aiforroi.co](https://aiforroi.co)  
-📸 [Instagram](https://www.instagram.com/aiforroi/)  
-🐦 [X / Twitter](https://x.com/sonnygonzz)  
-📧 sonny@aiforroi.co  
-📍 San Diego, CA
+🌐 [aiforroi.co](https://aiforroi.co)
